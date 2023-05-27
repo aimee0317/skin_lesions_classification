@@ -1,1 +1,7 @@
-# skin_lesions_classification
+# Skin Lesions Classification
+-   Author: Amelia Tang 
+
+## About
+## Report
+## Dependencies 
+## References 
