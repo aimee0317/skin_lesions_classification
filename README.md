@@ -1,4 +1,4 @@
-# Skin Lesions Classification
+# Skin Lesions Classifier
 -   Author: Amelia Tang 
 
 ## About
